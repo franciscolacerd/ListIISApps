@@ -1,4 +1,4 @@
-# ListIISApps
+# List IIS Apps
 
 POWERSHELL
 
